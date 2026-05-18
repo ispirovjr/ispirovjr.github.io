@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-18T16:00:00Z",
+  "last_updated": "2026-05-18T15:57:37.845255Z",
   "scripts": [
     {
       "name": "Data Processing",
       "status": "idle",
       "message": "Waiting for data",
       "updated": "2026-05-18T16:00:00Z"
+    },
+    {
+      "name": "test",
+      "status": "idle",
+      "message": "1/1",
+      "updated": "2026-05-18T15:57:37.845255Z"
     }
   ]
 }

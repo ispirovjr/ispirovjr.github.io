@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-18T15:57:37.845255Z",
+  "last_updated": "2026-05-21T14:33:56.199067Z",
   "scripts": [
     {
       "name": "Test",
       "status": "idle",
       "message": "1/1",
       "updated": "2026-05-18T15:57:37.845255Z"
+    },
+    {
+      "name": "Redshift Training",
+      "status": "idle",
+      "message": "waiting to start",
+      "updated": "2026-05-21T14:33:56.199067Z"
     }
   ]
 }

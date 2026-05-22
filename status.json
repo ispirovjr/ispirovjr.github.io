@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21T14:34:16.466568Z",
+  "last_updated": "2026-05-22T00:17:38.043808Z",
   "scripts": [
     {
       "name": "Test",
@@ -9,9 +9,9 @@
     },
     {
       "name": "Redshift Training",
-      "status": "idle",
-      "message": "waiting to start",
-      "updated": "2026-05-21T14:34:16.466568Z"
+      "status": "running",
+      "message": "Started: depth=14 hiddenDim=40 lr=0.00132 epochs=1000 2026-05-22T02:17:37.362",
+      "updated": "2026-05-22T00:17:38.043808Z"
     }
   ]
 }

@@ -2,12 +2,6 @@
   "last_updated": "2026-05-22T14:06:55.400958Z",
   "scripts": [
     {
-      "name": "Test",
-      "status": "idle",
-      "message": "1/1",
-      "updated": "2026-05-18T15:57:37.845255Z"
-    },
-    {
       "name": "Redshift Training",
       "status": "running",
       "message": "Started: depth=14 hiddenDim=40 lr=0.00132 epochs=1000 2026-05-22T16:06:53.900",

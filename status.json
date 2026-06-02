@@ -3,9 +3,9 @@
   "scripts": [
     {
       "name": "Redshift Training",
-      "status": "running",
-      "message": "Started: depth=14 hiddenDim=40 lr=0.00132 epochs=1000 2026-05-22T16:06:53.900",
-      "updated": "2026-05-22T14:06:55.400958Z"
+      "status": "idle",
+      "message": "Standby",
+      "updated": "2026-06-02"
     }
   ]
 }

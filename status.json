@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-09T16:39:16.032495Z",
+  "last_updated": "2026-06-09T16:57:54.332216Z",
   "scripts": [
     {
       "name": "Redshift Training",
       "status": "running",
-      "message": "Resumed: depth=14 hiddenDim=40 lr=0.00066 extra_epochs=300 2026-06-09T18:39:15.233",
-      "updated": "2026-06-09T16:39:16.032495Z"
+      "message": "Epoch 634/933 (+1/300) | train=-5.0013 | val=-5.0843",
+      "updated": "2026-06-09T16:57:54.332216Z"
     }
   ]
 }

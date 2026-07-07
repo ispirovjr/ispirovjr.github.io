@@ -8,24 +8,16 @@ The site serves as a digital CV detailing my educational background, research ex
 
 The site includes a floating status panel to monitor the real-time progress of computational scripts running on my local or remote machines.
 
-### Updating the Status
-
-The panel reads from `status.json`. To update it from any script, you can use the included `update_status.py` script:
-
-```bash
-# Set your GitHub PAT
-export GITHUB_TOKEN="your_personal_access_token"
-
 # Run the update
+```
 python update_status.py "NeoNEXUS Pipeline" "running" "Processing Epoch 15/100"
 ```
 
-The script uses the GitHub REST API to commit an update to `status.json`. The web interface polls this file every 60 seconds and reflects the changes.
+The script uses the GitHub REST API to commit an update to `status.json`. 
 
-## Local Development
 
-To run the site locally for testing:
-```bash
-python -m http.server
+# Reset
+
 ```
-Then navigate to `http://localhost:8000`.
+git reset --soft GITID
+```

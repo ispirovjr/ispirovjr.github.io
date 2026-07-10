@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T00:15:28.790904Z",
+  "last_updated": "2026-07-10T01:15:30.027847Z",
   "scripts": [
     {
       "name": "Redshift Training",
@@ -10,8 +10,8 @@
     {
       "name": "Condor DAG Pipeline",
       "status": "running",
-      "message": "20/26 nodes done | 5 active (BLOCK_1, BLOCK_2, BLOCK_6, BLOCK_10, BLOCK_30)",
-      "updated": "2026-07-10T00:15:28.790904Z"
+      "message": "21/26 nodes done | 4 active (BLOCK_1, BLOCK_2, BLOCK_10, BLOCK_30)",
+      "updated": "2026-07-10T01:15:30.027847Z"
     }
   ]
 }

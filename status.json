@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-02T22:32:34.615248Z",
+  "last_updated": "2026-08-02T22:52:32.034878Z",
   "scripts": [
     {
       "name": "Redshift Training",
       "status": "running",
-      "message": "Epoch 25/600 | train=-4.9858 | val=-5.1283",
-      "updated": "2026-08-02T22:32:34.615248Z"
+      "message": "Epoch 30/600 | train=-4.999 | val=-5.1483",
+      "updated": "2026-08-02T22:52:32.034878Z"
     },
     {
       "name": "Condor DAG Pipeline",
